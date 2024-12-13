@@ -1,0 +1,270 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "tradeace-font";
+    src:url("tradeace-font.eot");
+    src:url("tradeace-font.eot?#iefix") format("embedded-opentype"),
+        url("tradeace-font.woff") format("woff"),
+        url("tradeace-font.ttf") format("truetype"),
+        url("tradeace-font.svg#tradeace-font") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[data-icon]:before {
+    font-family: "tradeace-font";
+    content: attr(data-icon);
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-tradeace-"]:before,
+[class*=" icon-tradeace-"]:before {
+    font-family: "tradeace-font";
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tradeace-compare:before {
+    content: "\61";
+}
+.icon-tradeace-headphone:before {
+    content: "\63";
+}
+.icon-tradeace-cart:before {
+    content: "\64";
+}
+.icon-tradeace-liked:before {
+    content: "\65";
+}
+.icon-tradeace-refresh:before {
+    content: "\33";
+}
+.icon-tradeace-cart-2:before {
+    content: "\34";
+}
+.icon-tradeace-3column:before {
+    content: "\38";
+}
+.icon-tradeace-4column:before {
+    content: "\39";
+}
+.icon-tradeace-5column:before {
+    content: "\21";
+}
+.icon-tradeace-compare-2:before {
+    content: "\22";
+}
+.icon-tradeace-list:before {
+    content: "\23";
+}
+.icon-tradeace-like:before {
+    content: "\66";
+}
+.icon-tradeace-sale-2:before {
+    content: "\62";
+}
+.icon-tradeace-like-hand:before {
+    content: "\67";
+}
+.icon-tradeace-car:before {
+    content: "\68";
+}
+.icon-tradeace-location:before {
+    content: "\69";
+}
+.icon-tradeace-credit:before {
+    content: "\6a";
+}
+.icon-tradeace-99:before {
+    content: "\6b";
+}
+.icon-tradeace-sale:before {
+    content: "\6c";
+}
+.icon-tradeace-search:before {
+    content: "\6d";
+}
+.icon-tradeace-cart-3:before {
+    content: "\6e";
+}
+.icon-tradeace-compare-3:before {
+    content: "\6f";
+}
+.icon-tradeace-compare-4:before {
+    content: "\70";
+}
+.icon-tradeace-headset:before {
+    content: "\71";
+}
+.icon-tradeace-cart-4:before {
+    content: "\72";
+}
+.icon-tradeace-icons-1:before {
+    content: "\73";
+}
+.icon-tradeace-left-arrow:before {
+    content: "\74";
+}
+.icon-tradeace-right-arrow:before {
+    content: "\75";
+}
+.icon-tradeace-icons-4:before {
+    content: "\76";
+}
+.icon-tradeace-wishlist:before {
+    content: "\77";
+}
+.icon-tradeace-icons-6:before {
+    content: "\78";
+}
+.icon-tradeace-icons-8:before {
+    content: "\7a";
+}
+.icon-tradeace-icons-10:before {
+    content: "\42";
+}
+.icon-tradeace-close:before {
+    content: "\43";
+}
+.icon-tradeace-icons-12:before {
+    content: "\44";
+}
+.icon-tradeace-99-1:before {
+    content: "\45";
+}
+.icon-tradeace-car-2:before {
+    content: "\46";
+}
+.icon-tradeace-icons-15:before {
+    content: "\47";
+}
+.icon-tradeace-compare-1:before {
+    content: "\48";
+}
+.icon-tradeace-icons-17:before {
+    content: "\49";
+}
+.icon-tradeace-icons-18:before {
+    content: "\4a";
+}
+.icon-tradeace-icons-19:before {
+    content: "\4b";
+}
+.icon-tradeace-mouse:before {
+    content: "\4c";
+}
+.icon-tradeace-icons-21:before {
+    content: "\4d";
+}
+.icon-tradeace-computer:before {
+    content: "\4e";
+}
+.icon-tradeace-compare-5:before {
+    content: "\4f";
+}
+.icon-tradeace-sale-1:before {
+    content: "\50";
+}
+.icon-tradeace-car-1:before {
+    content: "\51";
+}
+.icon-tradeace-play:before {
+    content: "\52";
+}
+.icon-tradeace-check:before {
+    content: "\41";
+}
+.icon-tradeace-close-1:before {
+    content: "\53";
+}
+.icon-tradeace-check-1:before {
+    content: "\54";
+}
+.icon-tradeace-close-2:before {
+    content: "\55";
+}
+.icon-tradeace-icons-11:before {
+    content: "\56";
+}
+.icon-tradeace-icons-12-1:before {
+    content: "\79";
+}
+.icon-tradeace-if-search:before {
+    content: "\57";
+}
+.icon-tradeace-expand:before {
+    content: "\58";
+}
+.icon-tradeace-icons-plus:before {
+    content: "\59";
+}
+.icon-tradeace-icons-menu:before {
+    content: "\5a";
+}
+.icon-tradeace-icons-minus:before {
+    content: "\30";
+}
+.icon-tradeace-6column:before {
+    content: "\31";
+}
+.icon-tradeace-2column:before {
+    content: "\32";
+}
+.icon-tradeace-like-love-streamline:before {
+    content: "\35";
+}
+.icon-tradeace-1column:before {
+    content: "\36";
+}
+.icon-tradeace-fruit:before {
+    content: "\37";
+}
+.icon-tradeace-diet:before {
+    content: "\24";
+}
+.icon-tradeace-orange:before {
+    content: "\25";
+}
+.icon-tradeace-parsley:before {
+    content: "\26";
+}
+.icon-tradeace-onion:before {
+    content: "\27";
+}
+.icon-tradeace-banana:before {
+    content: "\28";
+}
+.icon-tradeace-potatoes:before {
+    content: "\29";
+}
+.icon-tradeace-raspberry:before {
+    content: "\2a";
+}
+.icon-tradeace-healthy-food:before {
+    content: "\2b";
+}
+.icon-tradeace-meat:before {
+    content: "\2c";
+}
+.icon-tradeace-fish:before {
+    content: "\2d";
+}
+.icon-tradeace-fast-food:before {
+    content: "\2e";
+}
+.icon-tradeace-tomato:before {
+    content: "\2f";
+}
